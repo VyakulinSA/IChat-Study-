@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "UIScrollView.verticalOffsetForBottom.getter:ChatsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isAtBottom">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FirestoreService.haveActiveChats(user:):FirestoreService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FirestoreService.haveActiveChats(user:):FirestoreService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentUser">
+            </PersistentString>
+            <PersistentString
+               value = "activeChatsRef">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PeopleViewController.viewDidLoad():PeopleViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "users">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ChatsViewController.viewDidLoad():ChatsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "messages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
